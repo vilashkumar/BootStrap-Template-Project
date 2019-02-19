@@ -1,0 +1,14 @@
+body{
+    width: 100%;
+    margin: 0%;
+}
+.btn-warning{
+    padding: 30px 40px 30px 40px;
+    border-radius: 20px;
+}
+.second{
+    background-color: #f4623a;
+}
+html{
+    scroll-behavior : smooth;
+}
